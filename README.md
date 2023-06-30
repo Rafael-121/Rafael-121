@@ -35,7 +35,19 @@ e DR. Álvaro Cantieri.
 
    * Sucesso ou fracasso do projeto. O projeto pode ser considerado um sucesso caso atenda as exigências citadas acima de forma autônoma. Podemos considerar um fracasso caso uma das bases não sejam concluidas nem por meios manuais.
 
-   * ***Serão definidos quando o projeto for apresentado aos socorristas.***
+   * ***Criterios de aceitação do produto serão definidos quando o projeto for apresentado aos socorristas.***
+
+## Matriz de Risco
+
+
+
+## Organização do Projeto
+
+Nosso cronograma pode ser visualizado pelo trello no link:
+
+   **Rafael Oliveira e Gabriela Grigoleto:** Responsáveis pela conexão Drone-Rede Neural e desenvolvimento de um banco de dados.
+
+   **Kimberly Rotman e Jhully Ferreira:** Criação e desenvolvimento da IA 
 <!---
 Rafael-121/Rafael-121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
