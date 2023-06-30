@@ -6,24 +6,36 @@ Projeto de auxílio à bombeiros e salvavidas no resgate, principalmente, de pes
 
 Logo do projeto
 
-------------------------------------------------------------------------------------------------------------------------
+---
 
 Acompanhe-nos de mais perto:
 
 - Redes sociais
 
-------------------------------------------------------------------------------------------------------------------------
+---
 
 Nosso projeto é dirigido pelos integrantes:..
 
 Rafael Oliveira, Kimberly Rotman, Gabriela Grigoleto, Jhully Ferreira 
 e DR. Álvaro Cantieri.
 
-Data de criação: 22/06/2023
+22/06/2023
 
-Contextualização
+---
 
-   Somos estudantes do IFPR Capmus Pinhais e estamos no nosso último ano do Ensino Médio Técnico. Como projeto de Conclusão de Curoso(TCC) nós nos propomos a fazer um drone de monitoramento de ambientes de superfície aquática. Nosso comprometimento é de utilizar um drone com sistema embarcado que será responsável pelo envio de imagens para um comutador de maior poder de processamento que contará com uma inteligência artificial(IA) que processará as imagens capturadas pelo drone e fornecerá um panorama de entidades presentes no seu campo de visão, com isso ajudar na indentificação de pessoas em risco de acidente aquático.  
+## Objetivo
+
+   Somos estudantes do IFPR Capmus Pinhais e estamos no nosso último ano do Ensino Médio Técnico. Como projeto de Conclusão de Curoso(TCC) nós nos propomos em parceria com as Oficinas 2.0 a fazer um drone de monitoramento em ambientes com superfície aquática. Nosso comprometimento é de utilizar um drone com sistema embarcado que será responsável pelo envio de imagens para um comutador com maior poder de processamento que contará com uma inteligência artificial(IA) que processará as imagens capturadas pelo drone e fornecerá um panorama de entidades presentes no seu campo de visão, com isso ajudar na identificação de pessoas em risco de acidente aquático, além de declarar a posição dos respectivos objetos capturados.
+
+## Escopo
+
+   * Nosso Minimo produto viável(MVP) é a entrega de um drone com sistema embarcado capaz de enviar dados de imagem(.jpg) e vídeo(.h264) para um dispositivo secundário via wifi, esse dispositivo possuirá nossa IA capaz de processar as imagens e vídeos, e apresenta-los aos socorristas.
+  
+   * Principais entrgas do projeto: Indentificar pessoas utilizando IA; Transferir dados drone e sistema e Salvar gravações (Banco de Dados).
+
+   * Sucesso ou fracasso do projeto. O projeto pode ser considerado um sucesso caso atenda as exigências citadas acima de forma autônoma. Podemos considerar um fracasso caso uma das bases não sejam concluidas nem por meios manuais.
+
+   * ***Serão definidos quando o projeto for apresentado aos socorristas.***
 <!---
 Rafael-121/Rafael-121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
