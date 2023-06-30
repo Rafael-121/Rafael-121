@@ -39,18 +39,125 @@ e DR. Álvaro Cantieri.
 
 ## Matriz de Risco
 
+__Risco 1__
 
+__Importância:__ Alta. 
+
+
+__Descrição:__ Falta de tempo para treinar IA.
+
+ 
+__Efeito no Projeto:__ Atraso no desenvolvimento. 
+
+
+__Probabilidade:__ Média. 
+
+
+__Impacto:__ Alto. 
+
+
+Ação: Mitigar: Extender o prazo de entrega dentro do cronograma previsto.
+
+
+__Risco 2__
+
+__Importância:__ Média. 
+
+
+__Descrição:__ Queima da Placa Raspberry.
+
+ 
+__Efeito no Projeto:__ Atraso no projeto. 
+
+
+__Probabilidade:__ Média. 
+
+
+__Impacto:__ Alta. 
+
+
+Ação: Mitigar: Buscar outra placa e oferecer proteção adequada.
+
+
+__Risco 3__
+
+__Importância:__ Alta. 
+
+
+__Descrição:__ Falha na identificação de pessoas com câmera térmica.
+
+ 
+__Efeito no Projeto:__ Não entrega da primeira proposta. 
+
+
+__Probabilidade:__ Baixa. 
+
+
+__Impacto:__ Alto. 
+
+
+Ação: Eliminar: Tirar a câmera térmica e finalizar com a câmera digital.
+
+
+__Risco 4__
+
+__Importância:__ Alta. 
+
+
+__Descrição:__ Instabilidade nes redes wifi.
+
+ 
+__Efeito no Projeto:__ Entrega parcial da proposta. 
+
+
+__Probabilidade:__ Baixa. 
+
+
+__Impacto:__ Alto. 
+
+
+Ação: Mitigar: Extender o prazo de entrega prevista no cronograma para concerto do problema.
+
+
+__Risco 5__
+
+__Importância:__ Media. 
+
+
+__Descrição:__ Excesso de trabalho para a equipe.
+
+ 
+__Efeito no Projeto:__ Progresso lento. 
+
+
+__Probabilidade:__ Baixa. 
+
+
+__Impacto:__ Medio. 
+
+
+Ação: Mitigar: Dividir as tarefas em tarefas menores e redistribuição de tarefas.
 
 ## Organização do Projeto
 
 Estamos organizando nosso cronograma pelo Trello
 
-[Cronograma -  TCC.pdf](https://github.com/Rafael-121/Rafael-121/files/11916023/Cronograma.-.TCC.pdf)
-
+Cronograma no Trello 
+![Cronograma](https://github.com/Rafael-121/Rafael-121/assets/137511020/f891add0-a160-4af1-bc73-b6c733d8be14)
 
    **Rafael Oliveira e Gabriela Grigoleto:** Responsáveis pela conexão Drone-Rede Neural e desenvolvimento de um banco de dados.
 
-   **Kimberly Rotman e Jhully Ferreira:** Criação e desenvolvimento da IA
+   **Kimberly Rotman e Jhully Ferreira:** Criação, desenvolvimento e treinamento da rede neural com a utilização da técnica YOLO
+
+[Cronograma -  TCC.pdf](https://github.com/Rafael-121/Rafael-121/files/11916023/Cronograma.-.TCC.pdf)
+
+
+## Ferramentas
+
+ __Software__ - Python nos compiladores: Google colaboratory e Visual studio. YOLO como técnica e também o conjunto de biblioteca ROS.   e acompanhar a atividade do drone.
+
+__Hardware__ - Um drone e um controle, um microcomputador(Raspberry Pi) acoplado ao mesmo e este fará a conectividade wifi com uma estação que contará com um computador mais potente para processar imagens fornecidas pela câmera do drone usando IA.
+   
 
 <!---
 Rafael-121/Rafael-121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
