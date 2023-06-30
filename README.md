@@ -39,104 +39,54 @@ e DR. Álvaro Cantieri.
 
 ## Matriz de Risco
 
-__Risco 1__
-
-__Importância:__ Alta. 
-
-
-__Descrição:__ Falta de tempo para treinar IA.
-
- 
-__Efeito no Projeto:__ Atraso no desenvolvimento. 
-
-
-__Probabilidade:__ Média. 
+| __Risco 1__ |
+| --- |
+| __Importância:__ Alta. |
+| __Descrição:__ Falta de tempo para treinar IA. |
+| __Efeito no Projeto:__ Atraso no desenvolvimento. |
+| __Probabilidade:__ Média. |
+| __Impacto:__ Alto. |
+| Ação: Mitigar: Extender o prazo de entrega dentro do cronograma previsto. |
 
 
-__Impacto:__ Alto. 
+| __Risco 2__ |
+| --- |
+| __Importância:__ Média. |
+| __Descrição:__ Queima da Placa Raspberry. |
+| __Efeito no Projeto:__ Atraso no projeto. |
+| __Probabilidade:__ Média. |
+| __Impacto:__ Alta. |
+| Ação: Mitigar: Buscar outra placa e oferecer proteção adequada. |
 
 
-Ação: Mitigar: Extender o prazo de entrega dentro do cronograma previsto.
+| __Risco 3__ |
+| --- |
+| __Importância:__ Alta. |
+| __Descrição:__ Falha na identificação de pessoas com câmera térmica. |
+| __Efeito no Projeto:__ Não entrega da primeira proposta. |
+| __Probabilidade:__ Baixa. |
+| __Impacto:__ Alto. |
+| Ação: Eliminar: Tirar a câmera térmica e finalizar com a câmera digital. |
 
 
-__Risco 2__
-
-__Importância:__ Média. 
-
-
-__Descrição:__ Queima da Placa Raspberry.
-
- 
-__Efeito no Projeto:__ Atraso no projeto. 
-
-
-__Probabilidade:__ Média. 
+| __Risco 4__ |
+| --- |
+| __Importância:__ Alta. |
+| __Descrição:__ Instabilidade nes redes wifi. |
+| __Efeito no Projeto:__ Entrega parcial da proposta. |
+| __Probabilidade:__ Baixa. | 
+| __Impacto:__ Alto. |
+| Ação: Mitigar: Extender o prazo de entrega prevista no cronograma para concerto do problema. |
 
 
-__Impacto:__ Alta. 
-
-
-Ação: Mitigar: Buscar outra placa e oferecer proteção adequada.
-
-
-__Risco 3__
-
-__Importância:__ Alta. 
-
-
-__Descrição:__ Falha na identificação de pessoas com câmera térmica.
-
- 
-__Efeito no Projeto:__ Não entrega da primeira proposta. 
-
-
-__Probabilidade:__ Baixa. 
-
-
-__Impacto:__ Alto. 
-
-
-Ação: Eliminar: Tirar a câmera térmica e finalizar com a câmera digital.
-
-
-__Risco 4__
-
-__Importância:__ Alta. 
-
-
-__Descrição:__ Instabilidade nes redes wifi.
-
- 
-__Efeito no Projeto:__ Entrega parcial da proposta. 
-
-
-__Probabilidade:__ Baixa. 
-
-
-__Impacto:__ Alto. 
-
-
-Ação: Mitigar: Extender o prazo de entrega prevista no cronograma para concerto do problema.
-
-
-__Risco 5__
-
-__Importância:__ Media. 
-
-
-__Descrição:__ Excesso de trabalho para a equipe.
-
- 
-__Efeito no Projeto:__ Progresso lento. 
-
-
-__Probabilidade:__ Baixa. 
-
-
-__Impacto:__ Medio. 
-
-
-Ação: Mitigar: Dividir as tarefas em tarefas menores e redistribuição de tarefas.
+| __Risco 5__ |
+| --- |
+| __Importância:__ Media. |
+| __Descrição:__ Excesso de trabalho para a equipe. |
+| __Efeito no Projeto:__ Progresso lento. |
+| __Probabilidade:__ Baixa. |
+| __Impacto:__ Medio. |
+| Ação: Mitigar: Dividir as tarefas em tarefas menores e redistribuição de tarefas. |
 
 ## Organização do Projeto
 
