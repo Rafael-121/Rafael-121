@@ -121,10 +121,13 @@ Seguindo o que foi apresentado, espera-se tornar possível fazer o reconheciment
 
 __Hardware__ - Um drone e um controle, um microcomputador(Raspberry Pi) acoplado ao mesmo e este fará a conectividade wifi com uma estação que contará com um computador mais potente para processar imagens fornecidas pela câmera do drone usando IA.
 
-### Requisitos do projeto
+### Requisitos do projeto e Diagramas
 
 [Requisitos do projeto - drone de resgate.pdf](https://github.com/Rafael-121/Rafael-121/files/11962295/Requisitos.do.projeto.-.drone.de.resgate.pdf)
 
+![Drone de resgte_](https://github.com/Rafael-121/Rafael-121/assets/137511020/7eebe1b4-e629-426b-83d6-12aa763c6d03)
+
+![DIAGRAMA DE FERRAMENTAS ](https://github.com/Rafael-121/Rafael-121/assets/137511020/4dcc0f06-4aa4-45c5-b56c-1fc4c807c7a4)
 
 <!---
 Rafael-121/Rafael-121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
