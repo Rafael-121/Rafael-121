@@ -29,6 +29,15 @@ e DR. Álvaro Cantieri.
 
 ## Escopo
 
+Os casos de afogamentos não são novidades, pelo contrário, são contribuintes para que a porcentagem aumente no Brasil. De acordo com o artigo “ O material técnico de salvamento aquático”, o número de óbitos por afogamentos em nosso país supera os 6.000 casos por ano, e os incidentes não fatais que chegam a mais de 100.000. 
+
+No Brasil, o afogamento é a segunda causa de óbito de 1 a 9 anos, terceira causa de 10 a 19 anos, e quarta causa de 20 a 25. A maioria dos afogamentos ocorrem em áreas abertas, sejam elas mar aberto, praias, rios, lagos, represas, considerando que 75% dos óbitos ocorrem em rios e represas, sendo o Norte do Brasil a região com mais mortalidade. 
+
+Segundo o Material técnico de salvamento aquático, é de grande pesar e importância a utilização dos equipamentos para salvamento de banhistas, como bóias e coletes. Contudo, em situações específicas, como competições de nado em mar aberto, é preciso se atentar em uma competição justa e concluir que todos os competidores chegem ao destino final, evitando acidentes como afogamentos. Situação não diferente nas praias, embora os bombeiros possuam torres para a visibilidade da praia, não conseguem atuar com precisão em situações de relatos de desaparecimentos de banhistas. Sendo que, o banhista pode estar sendo realmente arrastado pela correnteza, ou apenas pode ter ido ao banheiro.  
+
+O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qual visa resgatar pessoas de situações de afogamento. Utilizando de um drone semi-autônomo, com câmeras 4k e térmicas, juntamente com a inteligência artificial para o auxílio do reconhecimento de pessoas no ambiente aquático. Tornando mais fácil, seguro e preciso o resgate e trabalho do corpo de bombeiros. 
+
+
    * Nosso Minimo produto viável(MVP) é a entrega de um drone com sistema embarcado capaz de enviar dados de imagem(.jpg) e vídeo(.h264) para um dispositivo secundário via wifi, esse dispositivo possuirá nossa IA capaz de processar as imagens e vídeos, e apresenta-los aos socorristas.
   
    * Principais entrgas do projeto: Indentificar pessoas utilizando IA; Transferir dados drone e sistema e Salvar gravações (Banco de Dados).
@@ -102,12 +111,20 @@ Cronograma no Trello
 [Cronograma -  TCC.pdf](https://github.com/Rafael-121/Rafael-121/files/11916023/Cronograma.-.TCC.pdf)
 
 
-## Ferramentas
+## Ferramentas e Resultados
 
- __Software__ - Python nos compiladores: Google colaboratory e Visual studio. YOLO como técnica e também o conjunto de biblioteca ROS.   e acompanhar a atividade do drone.
+Resultados esperados com o projeto desenvolvido;
+
+Seguindo o que foi apresentado, espera-se tornar possível fazer o reconhecimento de uma pessoa em ambiente aquático utilizando imagens capturadas pelo drone e processadas com o auxílio do treinamento da rede neural YOLOv8. Bem como uma conexão estabelecida entre a ferramenta Raspberry e a estação base por uma antena WI-FI, para assim, transmitir as imagens captadas em tempo real. Utilizaremos:
+
+ __Software__ - Python nos compiladores: Google colaboratory e Visual studio. YOLO como técnica e também o conjunto de biblioteca ROS para acompanhar a atividade do drone.
 
 __Hardware__ - Um drone e um controle, um microcomputador(Raspberry Pi) acoplado ao mesmo e este fará a conectividade wifi com uma estação que contará com um computador mais potente para processar imagens fornecidas pela câmera do drone usando IA.
-   
+
+### Requisitos do projeto
+
+[Requisitos do projeto - drone de resgate.pdf](https://github.com/Rafael-121/Rafael-121/files/11962295/Requisitos.do.projeto.-.drone.de.resgate.pdf)
+
 
 <!---
 Rafael-121/Rafael-121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
