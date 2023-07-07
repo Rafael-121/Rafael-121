@@ -101,8 +101,7 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
 
 Estamos organizando nosso cronograma pelo Trello
 
-Cronograma no Trello 
-![Cronograma](https://github.com/Rafael-121/Rafael-121/assets/137511020/f891add0-a160-4af1-bc73-b6c733d8be14)
+Cronograma no Trello https://trello.com/b/0hzw7z82/atividades
 
    **Rafael Oliveira e Gabriela Grigoleto:** Responsáveis pela conexão Drone-Rede Neural e desenvolvimento de um banco de dados.
 
