@@ -2,10 +2,6 @@
 
 Projeto de auxílio à bombeiros e salvavidas no resgate, principalmente, de pessoas.
 
-![Logodrone1](https://github.com/Rafael-121/Rafael-121/assets/137511020/278fef4f-513b-411a-80e9-220dd7ab262f)
-
-Logo do projeto
-
 ---
 
 Acompanhe-nos de mais perto:
