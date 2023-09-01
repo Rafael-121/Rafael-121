@@ -20,7 +20,7 @@ e DR. Álvaro Cantieri.
 | __Objetivos de Desenvolvimento__ | _Descrição_ |
 | --- | --- |
 | __Projeto:__ Drone para Resgate de Pessoas em Condição de Afogamento | __Versão:__ Beta |
-| __Cliente:__ Socorristas/Bombeiros | __Data:__ 00/00/0000 |
+| __Cliente:__ Socorristas/Bombeiros | __Data:__ 31/01/2024 |
 
 ## Escopo
 
