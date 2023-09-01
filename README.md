@@ -2,6 +2,9 @@
 
 Projeto de auxílio à bombeiros e salvavidas no resgate, principalmente, de pessoas.
 
+
+![hi (2)](https://github.com/Rafael-121/Rafael-121/assets/137511020/21530c48-37ce-45c0-810f-b89565e73ba1)
+
 ---
 
 Nosso projeto é dirigido pelos integrantes:.
