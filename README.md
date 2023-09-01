@@ -43,12 +43,12 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
 
    * ***Criterios de aceitação do produto serão definidos quando o projeto for apresentado aos socorristas.***
 
-|**_Função_**|**_Nome_**|**_Responsabilidade_**|**_Competências_**|
+|__Função__|_Nome_|**_Responsabilidade_**|**_Competências_**|
 |---|---|---|---|
 |Documentação e Comunicação entre máquinas|Gabriela|Organizar os documentos compartilhados entre a equipe, documentar no artigo o que foi feito e enviar arquivos para o servidor/maáquina para analize utilizando a IA|Normas ABNT, Conhecimento Liguagem Culta e Redes |
 |Assuntos técnicos específicos|Guilherme|Fazer o drone voar, compatibilizar camera termica e configurar biblioteca de funções ROS| Ros, e Robótica|
-|Treinamento IA|Jhully|Fazer o reconhecimento de pessoas em imagens disponibilizadas| Yolo|
-|Treinamento IA|Kimberly|Fazer o reconhecimento de pessoas em imagens disponibilizadas| Yolo|
+|Treinamento IA|Jhully|Fazer as notações necessérias nas imagens disponibilizadas e posteriormente utiliza-las para o treinamento da IA em função do reconhecimento de pessoas submersas na água.| Yolo|
+|Treinamento IA|Kimberly|Fazer as notações necessérias nas imagens disponibilizadas e posteriormente utiliza-las para o treinamento da IA em função do reconhecimento de pessoas submersas na água.| Yolo|
 |Configurações das Máquinas|Rafael|Tornar possível a conectividade entre maquinas, instalar bibliotecas necessarias para compatibilidade de: Cameras e servidores(conexão ao servidor)|Conhecimento de SO, Configuração via Terminal e Redes|
 
 ## Matriz de Risco
@@ -99,7 +99,7 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
 | __Descrição:__ Excesso de trabalho para a equipe. |
 | __Efeito no Projeto:__ Não conclusão do projeto. |
 | __Probabilidade:__ Baixa. |
-| __Impacto:__ Medio. |
+| __Impacto:__ Alto. |
 | Ação: Mitigar: Dividir as tarefas em tarefas menores e redistribuição de tarefas. |
 
 ## Organização do Projeto
