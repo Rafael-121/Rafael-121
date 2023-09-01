@@ -2,7 +2,6 @@
 
 Projeto de auxílio à bombeiros e salvavidas no resgate, principalmente, de pessoas.
 
-
 ![hi (2)](https://github.com/Rafael-121/Rafael-121/assets/137511020/21530c48-37ce-45c0-810f-b89565e73ba1)
 
 ---
@@ -46,11 +45,11 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
 
 |**_Função_**|**_Nome_**|**_Responsabilidade_**|**_Competências_**|
 |---|---|---|---|
-|Documentação e Comunicação entre máquinas|Gabriela||Normas ABNT, Conhecimento Liguagem Culta e Redes |
-|Assuntos técnicos específicos|Guilherme|| Ros, e Robótica|
-|Treinamento IA|Jhully|| Yolo|
-|Treinamento IA|Kimberly|| Yolo|
-|Configurações das Máquinas|Rafael||Conhecimento de SO, Configuração via Terminal e Redes|
+|Documentação e Comunicação entre máquinas|Gabriela|Organizar os documentos compartilhados entre a equipe, documentar no artigo o que foi feito e enviar arquivos para o servidor/maáquina para analize utilizando a IA|Normas ABNT, Conhecimento Liguagem Culta e Redes |
+|Assuntos técnicos específicos|Guilherme|Fazer o drone voar, compatibilizar camera termica e configurar biblioteca de funções ROS| Ros, e Robótica|
+|Treinamento IA|Jhully|Fazer o reconhecimento de pessoas em imagens disponibilizadas| Yolo|
+|Treinamento IA|Kimberly|Fazer o reconhecimento de pessoas em imagens disponibilizadas| Yolo|
+|Configurações das Máquinas|Rafael|Tornar possível a conectividade entre maquinas, instalar bibliotecas necessarias para compatibilidade de: Cameras e servidores(conexão ao servidor)|Conhecimento de SO, Configuração via Terminal e Redes|
 
 ## Matriz de Risco
 
@@ -98,7 +97,7 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
 | --- |
 | __Importância:__ Media. |
 | __Descrição:__ Excesso de trabalho para a equipe. |
-| __Efeito no Projeto:__ Progresso lento. |
+| __Efeito no Projeto:__ Não conclusão do projeto. |
 | __Probabilidade:__ Baixa. |
 | __Impacto:__ Medio. |
 | Ação: Mitigar: Dividir as tarefas em tarefas menores e redistribuição de tarefas. |
