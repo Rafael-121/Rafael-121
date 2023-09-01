@@ -4,15 +4,9 @@ Projeto de auxílio à bombeiros e salvavidas no resgate, principalmente, de pes
 
 ---
 
-Acompanhe-nos de mais perto:
+Nosso projeto é dirigido pelos integrantes:.
 
-- Redes sociais
-
----
-
-Nosso projeto é dirigido pelos integrantes:..
-
-Rafael Oliveira, Kimberly Rotman, Gabriela Grigoleto, Jhully Ferreira 
+Rafael Oliveira, Kimberly Rotman, Gabriela Grigoleto, Jhully Ferreira, Guilherme Setin
 e DR. Álvaro Cantieri.
 
 22/06/2023
@@ -46,6 +40,14 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
    * Sucesso ou fracasso do projeto. O projeto pode ser considerado um sucesso caso atenda as exigências citadas acima de forma autônoma. Podemos considerar um fracasso caso uma das bases não sejam concluidas nem por meios manuais.
 
    * ***Criterios de aceitação do produto serão definidos quando o projeto for apresentado aos socorristas.***
+
+|**_Função_**|**_Nome_**|**_Responsabilidade_**|**_Competências_**|
+|---|---|---|---|
+|Documentação e Comunicação entre máquinas|Gabriela||Normas ABNT, Conhecimento Liguagem Culta e Redes |
+|Assuntos técnicos específicos|Guilherme|| Ros, e Robótica|
+|Treinamento IA|Jhully|| Yolo|
+|Treinamento IA|Kimberly|| Yolo|
+|Configurações das Máquinas|Rafael||Conhecimento de SO, Configuração via Terminal e Redes|
 
 ## Matriz de Risco
 
