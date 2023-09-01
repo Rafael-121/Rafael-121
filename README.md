@@ -23,6 +23,11 @@ e DR. Álvaro Cantieri.
 
    Somos estudantes do IFPR Capmus Pinhais e estamos no nosso último ano do Ensino Médio Técnico. Como projeto de Conclusão de Curoso(TCC) nós nos propomos em parceria com as Oficinas 2.0 a fazer um drone de monitoramento em ambientes com superfície aquática. Nosso comprometimento é de utilizar um drone com sistema embarcado que será responsável pelo envio de imagens para um comutador com maior poder de processamento que contará com uma inteligência artificial(IA) que processará as imagens capturadas pelo drone e fornecerá um panorama de entidades presentes no seu campo de visão, com isso ajudar na identificação de pessoas em risco de acidente aquático, além de declarar a posição dos respectivos objetos capturados.
 
+| __Objetivos de Desenvolvimento__ | _Descrição_ |
+| --- | --- |
+| __Projeto:__ Drone para Resgate de Pessoas em Condição de Afogamento | __Versão:__ Beta |
+| __Cliente:__ Socorristas/Bombeiros | __Data:__ 00/00/0000 |
+
 ## Escopo
 
 Os casos de afogamentos não são novidades, pelo contrário, são contribuintes para que a porcentagem aumente no Brasil. De acordo com o artigo “ O material técnico de salvamento aquático”, o número de óbitos por afogamentos em nosso país supera os 6.000 casos por ano, e os incidentes não fatais que chegam a mais de 100.000. 
