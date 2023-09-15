@@ -96,7 +96,7 @@ O objetivo geral do projeto, foi solicitado através do corpo de bombeiros, o qu
 | __Risco 5__ |
 | --- |
 | __Importância:__ Media. |
-| __Descrição:__ Excesso de trabalho para a equipe. |
+| __Descrição:__ Não concluir em tempo hábil. |
 | __Efeito no Projeto:__ Não conclusão do projeto. |
 | __Probabilidade:__ Baixa. |
 | __Impacto:__ Alto. |
